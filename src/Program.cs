@@ -172,9 +172,6 @@ namespace WordPlay {
         /// Gets the word depending on the parameters.
         /// </summary>
         /// <param name="sylDict">The syl dictionary.</param>
-        /// <param name="properNouns">The proper nouns.</param>
-        /// <param name="endingInLy">The ending in ly.</param>
-        /// <param name="endingInS">The ending in s.</param>
         /// <param name="typeOfWord">The type of word.</param>
         /// <param name="rnd">The random.</param>
         /// <param name="syllablesToFill">The syllables to fill.</param>
